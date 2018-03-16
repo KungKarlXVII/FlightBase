@@ -15,6 +15,9 @@ public class Main {
     	example.add("Två");
     	example.add("Tre");
     	example.add("Fyra");
+    	example.add("Fem");
+    	
+    	
     	
 //    	for(String text : example) {
 //    		if(text.equalsIgnoreCase("två")) example.remove(text);
