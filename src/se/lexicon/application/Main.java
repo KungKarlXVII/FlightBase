@@ -16,7 +16,7 @@ public class Main {
     	example.add("Tre");
     	example.add("Fyra");
     	example.add("Fem");
-    	
+    	example.add("Fem");
     	
     	
 //    	for(String text : example) {
