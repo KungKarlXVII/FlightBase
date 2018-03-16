@@ -1,7 +1,5 @@
 package se.lexicon.ui;
 
-import se.lexicon.exception.ExampleException;
-
 import java.util.Scanner;
 
 public class SystemUI {
